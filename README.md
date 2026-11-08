@@ -14,8 +14,8 @@ I work where **automotive electronics meets software**: I diagnose and repair di
 ## 🛠️ What I build
 
 ### Technical service platform
-Company web system for an equipment repair center: a public portal where customers fill out equipment shipment forms, a restricted technical area with access controlled per authorized user, and internal tools for the service and sales teams. A local server pushes a daily update to the cloud, with no open ports on the office network.
-`Cloudflare Workers` `JavaScript` `HTML/CSS`
+Internal web system that supports the company's service and sales teams (private).
+`Web` `Cloud`
 
 ### Offline field service report app
 Installable PWA used by field technicians with no signal. It builds standardized service reports, imports service order PDFs, sequences photos and flags labor limits per equipment family.
